@@ -1,0 +1,23 @@
+/* App.css or create a new CSS file for Navbar styles */
+
+nav {
+  background-color: rgb(67, 19, 67);
+  padding: 10px;
+  height: 50px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0.5rem;
+}
+
+li {
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
